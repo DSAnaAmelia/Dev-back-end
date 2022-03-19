@@ -1,0 +1,8 @@
+HTTP é um protocolo, uma forma de conversa entre duas máquinas, que permite transferir hiper-texto de um lado a outro. Daí o nome Hyper Text Transport Protcolo.
+
+Protocolo que especifica como será a comunicação entre um navegador e um servidor web, sendo um dos principais da World Wide Web (WWW).
+
+
+É o protocolo que te permite comprar passagens de avião pela internet, conversar com amigos pelas redes sociais e assistir mandar videos de gatos para sua familia. É o protocolo por trás da Web. Com ele, é possível que um estudante num café em São Paulo leia um artigo sobre o império mongol que está armazenado em um servidor nos Estados Unidos.
+
+Entender bem o protocolo HTTP pode te ajudar a desenvolver melhores aplicações web e a debugá-las quando as coisas derem errado.

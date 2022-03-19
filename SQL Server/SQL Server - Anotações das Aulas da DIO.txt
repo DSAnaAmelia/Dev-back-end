@@ -1,0 +1,26 @@
+SQL Server
+
+LINK para instalação: https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
+
+
+O que é
+
+Instalando o SQL Server
+
+SQL é uma linguagem padrão para trabalhar com bancos de dados relacionais. Ela é uma linguagem declarativa e que não necessita de profundos conhecimentos de programação para que alguém possa começar a escrever queries, as consultas e pedidps, que trazem resultados de acordo com o que você está buscando.
+
+Quais são os serviços do SQL Server?
+
+Relatórios. SSRS (SQL Server Reporting Services) Serviço do Power BI. Servidor de Relatórios do Power BI.
+Análise de Dados. SSAS (SQL Server Analysis Services) Clusters de Big Data do SQL Server de 2019.
+IA e Machine Learning. Serviços de Machine Learning do SQL (R e Python)
+
+Instalando o SQL Server Management Studio e criando o primeiro banco de dados
+
+
+Primeiras instruções SQL
+
+Normalizando os dados
+
+Trabalhando com tabelas relacionadas
+
