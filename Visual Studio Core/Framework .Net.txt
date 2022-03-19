@@ -1,0 +1,17 @@
+Acompanhamento das aulas de "Primeiro passos com .NET" (Professosr GAbriel Faraday)
+
+O que é?
+
+Iniciando com .NET 
+
+Conhecendo o C#
+
+Insfraestrutura para desenvolvimento de software criada pela Microsoft. Desenvolvida para e roda nas implementações do .NET (.NET Core /.NET Framework / Mono / Universal Windowns Plataform (UWP)
+
+Conhecendo variáveis e insruções
+
+Classes e objetos essenciais em C#
+
+Trabalhando com structs, interfaces e enums
+
+Uma síntese do que é .NET

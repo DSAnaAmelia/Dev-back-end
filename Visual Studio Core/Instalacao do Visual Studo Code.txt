@@ -1,0 +1,19 @@
+Visual Studio Code (Aula da Stephany Nusch)
+
+IDE Instalação e Configuração
+
+Link para download:
+
+https://code.visualstudio.com/download
+
+
+
+Anotações da aula Visual Studio Code ministrada pela Stephany Nusch na Plataforma Dio.
+
+
+
+Recursos Básicos
+
+Extensões e temas
+
+Terminal e Git
